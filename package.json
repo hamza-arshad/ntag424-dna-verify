@@ -1,0 +1,45 @@
+{
+  "name": "ntag424-dna-verify",
+  "version": "1.0.0",
+  "description": "Verify NTAG 424 DNA tag authenticity using Secure Dynamic Messaging (SDM). Decrypt PICCData, validate CMAC, detect cloned tags.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest --verbose",
+    "test:watch": "jest --watch"
+  },
+  "keywords": [
+    "nfc",
+    "ntag424",
+    "ntag-424-dna",
+    "sdm",
+    "cmac",
+    "authentication",
+    "anti-counterfeit",
+    "nxp",
+    "sun",
+    "secure-dynamic-messaging",
+    "ndef",
+    "rfid"
+  ],
+  "author": "Hamza Arshad <sheikh.hamza.arshad@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamza-arshad/ntag424-dna-verify.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hamza-arshad/ntag424-dna-verify/issues"
+  },
+  "homepage": "https://github.com/hamza-arshad/ntag424-dna-verify#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "files": [
+    "src/",
+    "README.md",
+    "LICENSE"
+  ],
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
