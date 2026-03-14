@@ -48,7 +48,7 @@ If the CMAC matches, the tap is authentic. If it doesn't, the tag is counterfeit
 ## Installation
 
 ```bash
-npm install ntag424-dna-verify
+npm install github:hamza-arshad/ntag424-dna-verify
 ```
 
 No dependencies — uses only Node.js built-in `crypto` module.
