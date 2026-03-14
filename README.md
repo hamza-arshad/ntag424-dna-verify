@@ -4,7 +4,7 @@ Verify **NTAG 424 DNA** tag authenticity using **Secure Dynamic Messaging (SDM)*
 
 Zero dependencies. Pure Node.js. Production-tested.
 
-Built and maintained by the engineering team at [Pyflow Labs](https://pyflowlabs.com).
+Built by [Hamza Arshad](https://github.com/hamza-arshad). Production-tested at [tethered.services](https://tethered.services) and [tetheredart.com](https://tetheredart.com).
 
 ---
 
@@ -296,12 +296,12 @@ AES-CMAC implementation is validated against [RFC 4493](https://tools.ietf.org/h
 
 ## About
 
-Built and maintained by the engineering team at **[Pyflow Labs](https://pyflowlabs.com)**.
+Built by **[Hamza Arshad](https://github.com/hamza-arshad)**. Based on production NFC authentication work done at **[Tethered](https://tethered.services)** and **[TetheredArt](https://tetheredart.com)**, where NTAG 424 DNA verifies physical products and artwork.
 
-If you're implementing NFC authentication and want to shortcut the learning curve, reach out or visit [pyflowlabs.com](https://pyflowlabs.com).
+I consult on NFC architecture and implementation. Reach out via [LinkedIn](https://www.linkedin.com/in/hamzaarshad) or [email](mailto:sheikh.hamza.arshad@gmail.com).
 
 ---
 
 ## License
 
-Apache License 2.0
+Apache-2.0 — see LICENSE and NOTICE
